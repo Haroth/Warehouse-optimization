@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1451319045 source:d:\programy\mmwd projekt\class.cpp
+	"class.h"
+	<ctime>
+	<cstdlib>
+	<math.h>
+	<fstream>
+
+1451698288 d:\programy\mmwd projekt\class.h
+	<iostream>
+
+1534178635 source:d:\programy\mmwd projekt\main.cpp
+	<iostream>
+	"class.h"
+	<ctime>
+	<cstdlib>
+	<fstream>
+
